@@ -1,0 +1,9 @@
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\bin\Debug\Random HoTS.exe.config
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\bin\Debug\Random HoTS.exe
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\bin\Debug\Random HoTS.pdb
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random HoTS.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random_HoTS.Form1.resources
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random_HoTS.Properties.Resources.resources
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random HoTS.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random HoTS.exe
+C:\Users\Craig\Desktop\Random Hots\Random HoTS\Random HoTS\obj\Debug\Random HoTS.pdb
